@@ -1,0 +1,9 @@
+langgraph>=0.0.15
+langchain>=0.1.17
+langchain-core>=0.1.48
+langchain-community>=0.0.10
+langchain-ollama>=0.0.6  # ✅ this is the new official Ollama integration
+ollama>=0.1.6
+pymongo>=4.6.1
+python-dotenv>=1.0.0
+requests>=2.31.0
